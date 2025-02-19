@@ -16,7 +16,7 @@ mayhem she leaves in her wake.
 - Race/Ethnicity: Zaunite
 - Species: Human
 - Occupation: Vigilante
-- Residence: Piltover
+- Residence: Unknown
 - Role: Marksman
 - Difficulty: Medium
 
