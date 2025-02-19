@@ -17,7 +17,7 @@ punch through walls—and criminals—with equal ease.
 - Species: Human
 - Occupation: Enforcer
 - Residence: Piltover
-- Role: Fighter
+- Role: Fighter/Assassin
 - Difficulty: Medium
 
 ## Appearance
