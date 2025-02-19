@@ -10,18 +10,20 @@ punch through walls—and criminals—with equal ease.
 
 ## Information
 - Full Name: Violet
-- Date of Birth: January 4
+- Gender: Female
+- Date of Birth: December 19
 - Place of Birth: Zaun
 - Race/Ethnicity: Zaunite
-- Occupation Enforcer
+- Species: Human
+- Occupation: Enforcer
 - Residence: Piltover
 - Role: Fighter
 - Difficulty: Medium
 
 ## Appearance
 - Height: 5'8 (175cm)
-- Eye color: Powder blue
-- Hair color: Light red
+- Eye Color: Powder blue
+- Hair Color: Light red
 
 ## Family
 - Mother: Felicia

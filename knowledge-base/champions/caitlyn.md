@@ -10,18 +10,20 @@ lawbreakers foolish enough to operate in the City of Progress.
 
 ## Information
 - Full Name: Caitlyn Kiramman
+- Gender: Female
 - Date of Birth: January 4
 - Place of Birth: Piltover
 - Race/Ethnicity: Piltovan & Ionian
-- Occupation Enforcer
+- Species: Human
+- Occupation: Enforcer
 - Residence: Piltover
 - Role: Marksman
 - Difficulty: Medium
 
 ## Appearance
 - Height: 6'1 (185cm)
-- Eye color: Teal blue
-- Hair color: Dark navy blue
+- Eye Color: Teal blue
+- Hair Color: Dark navy blue
 
 ## Family
 - Mother: Cassandra Kiramman
