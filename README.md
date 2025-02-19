@@ -16,3 +16,4 @@ Last update: February 18, 2025
 ## Dedication
 
 ## References
+- [League of Legends' Champions](https://www.leagueoflegends.com/en-us/champions/)
