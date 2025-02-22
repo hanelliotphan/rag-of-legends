@@ -18,10 +18,14 @@ released two hit singles, Agony’s Embrace and Ecstasy.
 
 ## 8 Facts
 - Evelynn is known for her uncompromising vision, rich vocals, and “bad girl” attitude.
-- After disagreements in other musical groups, Evelynn worked alone to write her own music before reconnecting with Ahri.
+- After disagreements in other musical groups, Evelynn worked alone to write 
+her own music before reconnecting with Ahri.
 - Her Chinese zodiac sign is a Rooster.
-- Evelynn is very mysterious about her diet and workouts and usually declines to comment on her routine.
+- Evelynn is very mysterious about her diet and workouts and usually declines 
+to comment on her routine.
 - She has a collection of very fast cars.
-- Evelynn values friends. She is close to few people and very protective of them.
-- She has been romantically linked with several missing male celebrities but never confirmed a relationship.
+- Evelynn values friends. She is close to few people and very protective of 
+them.
+- She has been romantically linked with several missing male celebrities but 
+never confirmed a relationship.
 - Karthus is an artist she takes inspiration from.

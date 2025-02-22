@@ -19,9 +19,12 @@ testing out new beauty products.
 
 ## 8 Facts
 - Ahri is the leader and lead singer of K/DA.
-- She was labeled the most talented new Kpop artist in the 2013 Pop Shine Awards.
-- After releasing five singles she spent time away from the industry to reinvent herself.
-- Ahri is a muse for multiple clothing lines. Designers can’t stop making outfits for her.
+- She was labeled the most talented new Kpop artist in the 2013 Pop Shine 
+Awards.
+- After releasing five singles she spent time away from the industry to reinvent 
+herself.
+- Ahri is a muse for multiple clothing lines. Designers can’t stop making 
+outfits for her.
 - Her Chinese zodiac sign is a Dog.
 - She prefers shopping over working out.
 - She has known Evelynn of K/DA for many years.

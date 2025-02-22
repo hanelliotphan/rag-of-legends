@@ -19,9 +19,11 @@ fan favorite.
 ## 8 Facts
 - Akali is the youngest and newest member of K/DA.
 - She was discovered at the age of 15 in an infamous rap battle that went viral.
-- She wasn’t mainstream enough to sign with a label until Ahri found her through social media.
+- She wasn’t mainstream enough to sign with a label until Ahri found her through 
+social media.
 - Akali’s favorite food is Spicy Ramyun.
 - Akali performs rap on street corners regularly to practice her lyrics.
 - Her Chinese zodiac sign is an Ox.
 - She speaks English, Korean, and Japanese.
-- Akali was born into a martial arts dojo. She left to find her calling as an artist, but still knows how to use a kama.
+- Akali was born into a martial arts dojo. She left to find her calling as an 
+artist, but still knows how to use a kama.

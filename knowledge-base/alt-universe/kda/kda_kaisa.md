@@ -27,6 +27,7 @@ and fall into the steps of life.
 - Kai’Sa won Hong Kong’s Can You Dance in 2018.
 - Her Chinese zodiac sign is a Rat.
 - She speaks Chinese, Afrikaans, Korean, and English fluently.
-- She spends hours in the studio creating choreography for K/DA. She believes each step must convey vulnerability and power through movement.
+- She spends hours in the studio creating choreography for K/DA. She believes 
+each step must convey vulnerability and power through movement.
 - She can be found cooking large meals in the K/DA house.
 - Her favorite food is Sichuan dry hot pot.
