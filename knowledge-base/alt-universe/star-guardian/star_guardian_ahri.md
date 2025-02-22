@@ -18,7 +18,7 @@ There’s no more room for patience and understanding in her universe—tough lo
 is all that’s left. Though that be the case, none are immune to Ahri’s own 
 unique charms.
 
-## Magical Medium
+## Magical Mediums
 Kiko - The mischievous Kiko accompanies Ahri as a vulpine embodiment of her 
 charisma… and sass. Even unprompted, Kiko isn’t shy about saying how it really 
 feels, though only Ahri can understand its unique language. As biting as the 
