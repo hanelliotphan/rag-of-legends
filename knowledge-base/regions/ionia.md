@@ -1,7 +1,7 @@
 # Ionia
 
 ## Summary
-Srrounded by treacherous seas, Ionia is composed of a number of allied 
+Surrounded by treacherous seas, Ionia is composed of a number of allied 
 provinces scattered across a massive archipelago, known to many as the First 
 Lands. Since Ionian culture has long been shaped by the pursuit of balance in 
 all things, the border between the material and spirit realms tends to be more 
