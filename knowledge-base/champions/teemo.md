@@ -95,3 +95,10 @@ first rule? And could it have been Teemo himself in a time long lost to his
 memories? Eh, he can’t remember! But no matter the mission, one thing remains 
 constant, which is Teemo’s dedication to live by the words of the Scout’s Oath: 
 to uphold the Bandle Scout way, and serve yordlekind each and every day.
+
+## Skills
+- Guerrilla Warfare
+- Blinding Dart
+- Move Quick
+- Toxic Shot
+- Noxious Trap
