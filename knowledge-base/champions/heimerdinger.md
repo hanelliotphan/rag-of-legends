@@ -25,3 +25,10 @@ fascinated by mysteries that have confounded his contemporaries for decades,
 and thrives on answering the universe’s most impenetrable questions. Though his 
 theories often appear opaque and esoteric, Heimerdinger believes knowledge 
 should be shared, and is devoted to teaching all who desire it.
+
+## Skills
+- Hextech Affinity
+- H-28 G Evolution Turret
+- Hextech Micro-rockets
+- CH-2 Electron Storm Grenade
+- Upgrade!!!
