@@ -57,6 +57,10 @@ def create_chroma_vector_store(doc_chunks, embeddings, db_name):
 
 
 def create_conversation_chain(vector_store):
+    """
+    create_conversation_chain -- Create conversation chain with OpenAI's GPT-4o 
+    mini model
+    """
     llm = ChatOpenAI(
         temperature=0.7,
         model="gpt-4o-mini",
