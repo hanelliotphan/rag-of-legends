@@ -2,7 +2,7 @@
 # Author: Han-Elliot Phan                                                      #
 # Email: hanelliotphan@gmail.com                                               #
 #                                                                              #
-# Last update: February 28, 2025                                               #
+# Last update: March 1, 2025                                                   #
 # ---------------------------------------------------------------------------- #
 
 # ---------------------------------------------------------------------------- #
@@ -56,7 +56,10 @@ def collect_knowledge_document_chunks(documents):
     return chunks
 
 
-def get_embeddings():
+def get_openai_embeddings():
+    """
+    get_openai_embeddings -- Get OpenAI's embeddings
+    """
     return OpenAIEmbeddings(api_key=os.environ.get("OPENAI_API_KEY"))
 
 
