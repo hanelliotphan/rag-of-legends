@@ -1,5 +1,5 @@
 gradio
-langchain
+langchain==0.0.208 
 langchain-community
 langchain-chroma
 langchain-openai

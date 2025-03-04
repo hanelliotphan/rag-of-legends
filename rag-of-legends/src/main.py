@@ -40,6 +40,11 @@ from utils.login import (
 #                               MAIN STREAMLINE                                #
 # ---------------------------------------------------------------------------- #
 
+def main_streamline():
+    pass
+    # TODO
+
+
 def main():
     pass
     # TODO
