@@ -2,7 +2,7 @@
 # Author: Han-Elliot Phan                                                      #
 # Email: hanelliotphan@gmail.com                                               #
 #                                                                              #
-# Last update: February 18, 2025                                               #
+# Last update: March 3, 2025                                                   #
 # ---------------------------------------------------------------------------- #
 
 # ---------------------------------------------------------------------------- #
@@ -15,3 +15,38 @@
 # ---------------------------------------------------------------------------- #
 #                               IMPORT LIBRARIES                               #
 # ---------------------------------------------------------------------------- #
+
+from model.langchain import (
+    collect_knowledge,
+    collect_knowledge_document_chunks,
+    get_openai_embeddings,
+    clear_chroma_vector_store,
+    create_chroma_vector_store,
+    create_conversation_chain
+)
+
+from utils.chat import (
+    get_chat_response,
+    get_gradio_chat_interface
+)
+
+from utils.login import (
+    hf_login,
+    openai_login
+)
+
+
+# ---------------------------------------------------------------------------- #
+#                               MAIN STREAMLINE                                #
+# ---------------------------------------------------------------------------- #
+
+def main():
+    pass
+    # TODO
+
+# ---------------------------------------------------------------------------- #
+#                               MAIN EXECUTION                                 #
+# ---------------------------------------------------------------------------- #
+
+if __name__ == "__main__":
+    main()
