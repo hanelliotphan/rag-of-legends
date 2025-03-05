@@ -13,17 +13,6 @@
 # ---------------------------------------------------------------------------- #
 
 
-# ---------------------------------------------------------------------------- #
-#                               IMPORT LIBRARIES                               #
-# ---------------------------------------------------------------------------- #
-
-import gradio as gr
-
-
-# ---------------------------------------------------------------------------- #
-#                               IMPORT LIBRARIES                               #
-# ---------------------------------------------------------------------------- #
-
 def get_chat_response(conversation_chain, message, history):
     """
     get_chat_response -- Set up chat response fetching
@@ -31,10 +20,3 @@ def get_chat_response(conversation_chain, message, history):
     result = conversation_chain.invoke({"question": message})
     response = result["answer"]
     return response
-
-
-def get_gradio_chat_interface(chat):
-    """
-    get_gradio_chat_interface -- Get Gradio chat interface
-    """
-    return gr.ChatInterface(chat).launch()

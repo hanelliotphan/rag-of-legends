@@ -23,7 +23,6 @@ import os
 from langchain.chains import ConversationalRetrievalChain
 from langchain.document_loaders import DirectoryLoader, TextLoader
 from langchain.text_splitter import CharacterTextSplitter
-from langchain.schema import Document
 from langchain_core.callbacks import StdOutCallbackHandler
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_chroma import Chroma
