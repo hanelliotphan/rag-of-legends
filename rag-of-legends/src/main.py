@@ -31,10 +31,6 @@ from model.langchain import (
 from utils.chat import (
     get_chat_response,
 )
-from utils.login import (
-    hf_login,
-    openai_login
-)
 
 
 # ---------------------------------------------------------------------------- #
